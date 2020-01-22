@@ -1,3 +1,0 @@
-﻿print("Welcome;")
-pint Hello Crazy!
-print Hello Danila!
